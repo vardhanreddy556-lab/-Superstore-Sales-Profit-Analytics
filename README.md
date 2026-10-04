@@ -22,10 +22,9 @@ An interactive Power BI dashboard that analyses sales, profit, customers, produc
 ## Repository structure
 
 ```
-├── dashboard/        Power BI report (.pbix)
-├── data/             Source Excel file (Orders and Zone sheets)
-├── screenshots/      Dashboard page images
-├── docs/             Project report, data dictionary, presentation
+├── dashboard/        RLS_Regional_Sales_Profit_Analytics (.pbix)
+├── data/             Indian_Superstore_Dataset (Orders and Zone sheets)
+├── docs/             Project report, presentation, RLS ALL DASHBOARDS IMAGES 
 └── README.md
 ```
 
